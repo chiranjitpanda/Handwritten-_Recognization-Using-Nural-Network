@@ -1,1 +1,1 @@
-# Handwritten-_Recognization-Using-Nural-Network
+# Handwritten_Recognization_Using Neural_Network
